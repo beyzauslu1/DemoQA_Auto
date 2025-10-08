@@ -1,0 +1,57 @@
+# Fill First Name
+* "firstName" alanına "firstName" verisi girilir
+* Girilen isim kontrol edilir
+
+# Fill Last Name
+* "lastName" alanına "lastName" verisi girilir
+* Girilen soyisim kontrol edilir
+
+# Fill Email
+* "userEmail" alanına "userEmail" verisi girilir
+* Girilen email kontrol edilir
+
+# Fill Phone
+* "userNumber" alanına "userNumber" verisi girilir
+
+# Select Female Gender
+* Gender alanı "genderFemale" seçilir
+
+# Select Male Gender
+* Gender alanı "genderMale" seçilir
+
+# Select State NCR
+* state alanına "stateNCR" verisi girilir
+
+# Select State Uttar Pradesh
+* state alanına "stateUP" verisi girilir
+
+# Select State Haryana
+* state alanına "stateHaryana" verisi girilir
+
+# Select State Rajastan
+* state alanına "stateRajastan" verisi girilir
+
+# Select City Delhi
+* City alanına "cityDelhi" verisi girilir
+
+# Select City Gurgaon
+* City alanına "cityGurgaon" verisi girilir
+
+# Select City Agra
+* City alanına "cityAgra" verisi girilir
+
+# Select City Lucknow
+* City alanına "cityLucknow" verisi girilir
+
+# Select City Karnal
+* City alanına "cityKarnal" verisi girilir
+
+# Fill Address
+* "currentAddress" alanına "currentAddress" verisi girilir
+
+# Upload File
+* "uploadPicture" alanına "uploadFile" dosyası yüklenir
+* Yüklenen dosya adı formda görünmelidir
+
+# Submit Form
+* "submit" butonuna tıklanır

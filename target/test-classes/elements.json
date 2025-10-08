@@ -1,0 +1,229 @@
+{
+  "firstName": {
+    "key": "firstName",
+    "by": "id",
+    "value": "firstName",
+    "index": 0
+  },
+  "lastName": {
+    "key": "lastName",
+    "by": "id",
+    "value": "lastName",
+    "index": 0
+  },
+  "userEmail": {
+    "key": "userEmail",
+    "by": "id",
+    "value": "userEmail",
+    "index": 0
+  },
+
+  "genderMale": {
+    "key": "genderMale",
+    "by": "xpath",
+    "value": "//label[text()='Male']",
+    "text": "Male",
+    "index": 0
+  },
+  "genderFemale": {
+    "key": "genderFemale",
+    "by": "xpath",
+    "value": "//label[text()='Female']",
+    "text": "Female",
+    "index": 0
+  },
+  "genderOther": {
+    "key": "genderOther",
+    "by": "xpath",
+    "value": "//label[text()='Other']",
+    "text": "Other",
+    "index": 0
+  },
+
+  "userNumber": {
+    "key": "userNumber",
+    "by": "id",
+    "value": "userNumber",
+    "index": 0
+  },
+
+  "dateOfBirth": {
+    "key": "dateOfBirth",
+    "by": "id",
+    "value": "dateOfBirthInput",
+    "index": 0
+  },
+
+  "subjectsInput": {
+    "key": "subjectsInput",
+    "by": "id",
+    "value": "subjectsInput",
+    "index": 0
+  },
+
+  "hobbySports": {
+    "key": "hobbySports",
+    "by": "xpath",
+    "value": "//label[text()='Sports']",
+    "text": "Sports",
+    "index": 0
+  },
+  "hobbyReading": {
+    "key": "hobbyReading",
+    "by": "xpath",
+    "value": "//label[text()='Reading']",
+    "text": "Reading",
+    "index": 0
+  },
+  "hobbyMusic": {
+    "key": "hobbyMusic",
+    "by": "xpath",
+    "value": "//label[text()='Music']",
+    "text": "Music",
+    "index": 0
+  },
+
+  "currentAddress": {
+    "key": "currentAddress",
+    "by": "id",
+    "value": "currentAddress",
+    "index": 0
+  },
+
+  "uploadPicture": {
+    "key": "uploadPicture",
+    "by": "id",
+    "value": "uploadPicture",
+    "index": 0
+  },
+
+  "stateDropdown": {
+    "key": "stateDropdown",
+    "by": "id",
+    "value": "state",
+    "index": 0
+  },
+  "cityDropdown": {
+    "key": "cityDropdown",
+    "by": "id",
+    "value": "city",
+    "index": 0
+  },
+
+  "stateNCR": {
+    "key": "stateNCR",
+    "by": "xpath",
+    "value": "//div[text()='NCR']",
+    "text": "NCR",
+    "index": 0
+  },
+  "stateUttarPradesh": {
+    "key": "stateUttarPradesh",
+    "by": "xpath",
+    "value": "//div[text()='Uttar Pradesh']",
+    "text": "Uttar Pradesh",
+    "index": 0
+  },
+  "stateHaryana": {
+    "key": "stateHaryana",
+    "by": "xpath",
+    "value": "//div[text()='Haryana']",
+    "text": "Haryana",
+    "index": 0
+  },
+  "stateRajasthan": {
+    "key": "stateRajasthan",
+    "by": "xpath",
+    "value": "//div[text()='Rajasthan']",
+    "text": "Rajasthan",
+    "index": 0
+  },
+
+  "cityDelhi": {
+    "key": "cityDelhi",
+    "by": "xpath",
+    "value": "//div[text()='Delhi']",
+    "text": "Delhi",
+    "index": 0
+  },
+  "cityGurgaon": {
+    "key": "cityGurgaon",
+    "by": "xpath",
+    "value": "//div[text()='Gurgaon']",
+    "text": "Gurgaon",
+    "index": 0
+  },
+  "cityNoida": {
+    "key": "cityNoida",
+    "by": "xpath",
+    "value": "//div[text()='Noida']",
+    "text": "Noida",
+    "index": 0
+  },
+  "cityAgra": {
+    "key": "cityAgra",
+    "by": "xpath",
+    "value": "//div[text()='Agra']",
+    "text": "Agra",
+    "index": 0
+  },
+  "cityLucknow": {
+    "key": "cityLucknow",
+    "by": "xpath",
+    "value": "//div[text()='Lucknow']",
+    "text": "Lucknow",
+    "index": 0
+  },
+  "cityMerrut": {
+    "key": "cityMerrut",
+    "by": "xpath",
+    "value": "//div[text()='Merrut']",
+    "text": "Merrut",
+    "index": 0
+  },
+  "cityKarnal": {
+    "key": "cityKarnal",
+    "by": "xpath",
+    "value": "//div[text()='Karnal']",
+    "text": "Karnal",
+    "index": 0
+  },
+  "cityPanipat": {
+    "key": "cityPanipat",
+    "by": "xpath",
+    "value": "//div[text()='Panipat']",
+    "text": "Panipat",
+    "index": 0
+  },
+  "cityJaipur": {
+    "key": "cityJaipur",
+    "by": "xpath",
+    "value": "//div[text()='Jaipur']",
+    "text": "Jaipur",
+    "index": 0
+  },
+  "cityJaiselmer": {
+    "key": "cityJaiselmer",
+    "by": "xpath",
+    "value": "//div[text()='Jaiselmer']",
+    "text": "Jaiselmer",
+    "index": 0
+  },
+
+  "submitButton": {
+    "key": "submitButton",
+    "by": "id",
+    "value": "submit",
+    "index": 0
+  },
+  "formHeader": {
+    "by": "css",
+    "value": ".practice-form-wrapper",
+    "index": 0
+  },
+  "submit": {
+    "by": "id",
+    "value": "submit",
+    "index": 0 }
+
+}
